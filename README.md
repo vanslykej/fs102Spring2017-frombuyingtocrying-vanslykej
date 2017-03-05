@@ -1,4 +1,4 @@
-# seke2015-panel-presentation
+# From Buying To Crying
 
 This repository contains the HTML source code and additional resources for a presentation that corresponds to an article that I, Jake Van Slyke wrote on my website which is linked below. The presentation's source code uses the
 [reveal.js](https://github.com/hakimel/reveal.js/) framework to control the display of each slide.  I have developed a
